@@ -16,7 +16,7 @@ Bu tür sorunları önlemek için, güncellemelerden önce sistem yedeklemeleri 
 
 O zaman fazla söze gerek yok nasıl çözeceğimize bakalım 
 
-#Onprime Sistemlerde Çözüm:
+# Onprime Sistemlerde Çözüm:
 
   1-Windows'u Güvenli Modda Başlatma:
         Bilgisayarınızı yeniden başlatın.
@@ -38,7 +38,7 @@ O zaman fazla söze gerek yok nasıl çözeceğimize bakalım
 
 Bu adımları takip ederek CrowdStrike güncellemesi nedeniyle oluşan mavi ekran sorununu çözebilirsiniz. Eğer sorun devam ederse, CrowdStrike destek ekibi ile iletişime geçmeyi düşünebilirsiniz.
 
-#Azure Üzerinde Çözüm:
+# Azure Üzerinde Çözüm:
 
 Azure'da bulunan bir VM'nin Windows'u normal şekilde açılmıyorsa ve doğrudan güvenli modda başlatmanız gerekiyorsa, aşağıdaki adımları takip edebilirsiniz:
 
