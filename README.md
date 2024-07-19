@@ -81,6 +81,8 @@ Azure'da bulunan bir VM'nin Windows'u normal şekilde açılmıyorsa ve doğruda
 
  Yada bu kadar uğraşmayıp 3. adımdan sonra ilgili dizine gidip dosyanın adını değiştirebilirsiniz. 
 
+ Ben bu makaleyi yayınladıktan sonra bir patch yayınladığı ve durumun düzeltildiği bilgisi resmi olmayan bir kanaldan aldığım bilgi yani sisteminiz düzelmiş olabilir lütfen kontrol ediniz
+
  Dosyanın adını hızlıca değiştireibleceğiniz PowerShell Scriptini code bölümünde bulabilirsiniz basit ama kütüphanenizde dursun :) 
 
  
